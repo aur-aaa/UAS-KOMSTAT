@@ -83,7 +83,7 @@ Laporan Final
 ------------------------------------------------------------
 
 Laporan proyek ini dapat diakses melalui link berikut:
-[Buka laporan final (word)](2KS3_222313003_Aura Hanifa Kasetya Putri_UAS.word)
+[Buka laporan final (PDF)](2KS3_222313003_Aura Hanifa Kasetya Putri_UAS.pdf)
 
 ------------------------------------------------------------
 Tujuan Dashboard
